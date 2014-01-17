@@ -35,7 +35,7 @@ Requires curly braces after statements.
 
 Type: `Array`
 
-Values: Arrow of quoted keywords
+Values: Array of quoted keywords
 
 #### Example
 
